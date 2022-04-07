@@ -6,3 +6,5 @@ The major aim of this project is to create a platform to automate disease diagno
 Our main aim from this project is to create a platform that can help doctors in disease diagnosis and to help individuals to cure disease in the early stage. Most models out in the market are trained with a large amount of data, for the project we aim to do it on the data we have.  We believe our system will help doctors to aid their decision-making abilities for disease diagnostics.
 
 The study uses MCA, KModes, Decision Tree, Gradient Boosting, Random Forest, and XGBoost models.
+
+Link Of dataset: https://www.kaggle.com/usamag123/disease-prediction-through-symptoms
