@@ -1,0 +1,4 @@
+OHAS dataset (Intial dataset link) : https://www.kaggle.com/usamag123/disease-prediction-through-symptoms
+
+NEW created dataset (by doing some data wragling)
+Created dataset by combining similar diseases together such as kidney failure and kidney diseases and renamed it to kidney diseases. Also change similar symptoms by giving same name like pain chest and chest pain as "Chest pain". Both symptoms is related to chest.
